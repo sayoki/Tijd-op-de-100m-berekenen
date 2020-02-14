@@ -1,5 +1,5 @@
 <?php
-$tempo = "3.15"; # min.seconden
+$tempo = "3.10"; # min.seconden
 $afstand = 1000; # aantal meter
 
 ###
